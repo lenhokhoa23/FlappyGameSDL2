@@ -1,0 +1,13 @@
+﻿  CommonFunc.cpp
+C:\Users\it au\source\repos\RamBoGAME\RamBoGAME\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+  (compiling source file 'CommonFunc.cpp')
+  
+C:\Users\it au\source\repos\RamBoGAME\RamBoGAME\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  (compiling source file 'CommonFunc.cpp')
+  
+C:\Users\it au\source\repos\RamBoGAME\RamBoGAME\CommonFunc.cpp(44,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\it au\source\repos\RamBoGAME\RamBoGAME\CommonFunc.cpp(45,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\it au\source\repos\RamBoGAME\RamBoGAME\CommonFunc.cpp(46,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\it au\source\repos\RamBoGAME\RamBoGAME\CommonFunc.cpp(47,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\it au\source\repos\RamBoGAME\RamBoGAME\CommonFunc.cpp(28,18): warning C4101: 'menu': unreferenced local variable
+  RamBoGAME.vcxproj -> C:\Users\it au\source\repos\RamBoGAME\Debug\RamBoGAME.exe

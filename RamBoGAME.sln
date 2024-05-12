@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RamBoGAME", "RamBoGAME\RamBoGAME.vcxproj", "{20C4868B-8FE7-49E5-A05A-B134421AB505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Debug|x64.ActiveCfg = Debug|x64
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Debug|x64.Build.0 = Debug|x64
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Debug|x86.ActiveCfg = Debug|Win32
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Debug|x86.Build.0 = Debug|Win32
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Release|x64.ActiveCfg = Release|x64
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Release|x64.Build.0 = Release|x64
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Release|x86.ActiveCfg = Release|Win32
+		{20C4868B-8FE7-49E5-A05A-B134421AB505}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74DAB91B-D40B-4D54-8562-464B352A538D}
+	EndGlobalSection
+EndGlobal

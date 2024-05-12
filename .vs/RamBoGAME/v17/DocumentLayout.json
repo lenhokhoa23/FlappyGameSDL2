@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\CommonFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\CommonFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\ImpTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\ImpTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\Geometric.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\Geometric.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\PlayerObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\PlayerObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\TextObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\TextObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BlockObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\BlockObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\CommonFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\CommonFunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BlockObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\BlockObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\ImpTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\ImpTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\PlayerObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\PlayerObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\TextObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\TextObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\Geometric.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\Geometric.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20C4868B-8FE7-49E5-A05A-B134421AB505}|RamBoGAME\\RamBoGAME.vcxproj|solutionrelative:RamBoGAME\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\main.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\main.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\main.cpp",
+              "RelativeToolTip": "RamBoGAME\\main.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T09:39:53.5Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonFunc.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\CommonFunc.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\CommonFunc.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\CommonFunc.cpp",
+              "RelativeToolTip": "RamBoGAME\\CommonFunc.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:05:05.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextObject.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\TextObject.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\TextObject.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\TextObject.cpp",
+              "RelativeToolTip": "RamBoGAME\\TextObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:08:12.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlockObject.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BlockObject.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\BlockObject.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BlockObject.cpp",
+              "RelativeToolTip": "RamBoGAME\\BlockObject.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAEMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:03:49.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Geometric.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\Geometric.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\Geometric.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\Geometric.cpp",
+              "RelativeToolTip": "RamBoGAME\\Geometric.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:05:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\stdafx.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\stdafx.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\stdafx.cpp",
+              "RelativeToolTip": "RamBoGAME\\stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T09:44:44.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerObject.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\PlayerObject.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\PlayerObject.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\PlayerObject.cpp",
+              "RelativeToolTip": "RamBoGAME\\PlayerObject.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:07:33.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImpTimer.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\ImpTimer.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\ImpTimer.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\ImpTimer.cpp",
+              "RelativeToolTip": "RamBoGAME\\ImpTimer.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:06:43.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseObject.cpp",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BaseObject.cpp",
+              "RelativeDocumentMoniker": "RamBoGAME\\BaseObject.cpp",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BaseObject.cpp",
+              "RelativeToolTip": "RamBoGAME\\BaseObject.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T10:02:43.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonFunc.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\CommonFunc.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\CommonFunc.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\CommonFunc.h",
+              "RelativeToolTip": "RamBoGAME\\CommonFunc.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T10:05:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlockObject.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BlockObject.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\BlockObject.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BlockObject.h",
+              "RelativeToolTip": "RamBoGAME\\BlockObject.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T10:04:01.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImpTimer.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\ImpTimer.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\ImpTimer.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\ImpTimer.h",
+              "RelativeToolTip": "RamBoGAME\\ImpTimer.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T10:06:52.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerObject.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\PlayerObject.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\PlayerObject.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\PlayerObject.h",
+              "RelativeToolTip": "RamBoGAME\\PlayerObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T10:07:43.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TextObject.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\TextObject.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\TextObject.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\TextObject.h",
+              "RelativeToolTip": "RamBoGAME\\TextObject.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T10:08:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\stdafx.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\stdafx.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\stdafx.h",
+              "RelativeToolTip": "RamBoGAME\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T09:44:32.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Geometric.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\Geometric.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\Geometric.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\Geometric.h",
+              "RelativeToolTip": "RamBoGAME\\Geometric.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T10:06:11.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseObject.h",
+              "DocumentMoniker": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BaseObject.h",
+              "RelativeDocumentMoniker": "RamBoGAME\\BaseObject.h",
+              "ToolTip": "C:\\Users\\it au\\source\\repos\\RamBoGAME\\RamBoGAME\\BaseObject.h",
+              "RelativeToolTip": "RamBoGAME\\BaseObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-27T10:02:57.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
