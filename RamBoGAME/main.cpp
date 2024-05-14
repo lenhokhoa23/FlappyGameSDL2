@@ -14,7 +14,30 @@ BaseObject g_ground;
 
 TTF_Font* g_font_text = NULL;
 TTF_Font* g_font_MENU = NULL;
+int g_high_score = 0;
+void SaveHighScore(int score); 
+int LoadHighScore();
+void SaveHighScore(int score)
+{
+    std::ofstream file("highscore.txt");
+    if (file.is_open())
+    {
+        file << score;
+        file.close();
+    }
+}
 
+int LoadHighScore()
+{
+    std::ifstream file("highscore.txt");
+    int highscore = 0;
+    if (file.is_open())
+    {
+        file >> highscore;
+        file.close();
+    }
+    return highscore;
+}
 bool InitData()
 {
     BOOL bSucess = true;
@@ -66,7 +89,7 @@ bool InitData()
             return false;
         }
     }
-
+    g_high_score = LoadHighScore();
     return bSucess;
 }
 
@@ -76,6 +99,8 @@ bool LoadBackground()
     bool ret = g_background.LoadImageFile("img//bkgn.png", g_screen);
     return ret;
 }
+
+
 
 
 void close()
@@ -198,7 +223,29 @@ again_label:
         bool game_over = player.GetIsDie();
         if (game_over == true)
         {
-            Sleep(500);          // tam dung 500 mili s de nguoi choi nhin toan canh truoc khi ve menu game over
+
+            if (manage_block.GetCount() > g_high_score)
+            {
+                g_high_score = manage_block.GetCount();
+                SaveHighScore(g_high_score);
+            }
+
+            TextObject cur_score;
+            cur_score.setColor(TextObject::RED_TEXT);
+            std::string cur_score_str = "YOUR CURRENT SCORE: " + std::to_string(count);
+            cur_score.SetText(cur_score_str.c_str());
+            cur_score.loadFromRenderedText(g_font_text, g_screen);
+            cur_score.RenderText(g_screen, SCREEN_WIDTH / 2 - 230, 250);
+
+            TextObject high_score_text;
+            high_score_text.setColor(TextObject::RED_TEXT);
+            std::string high_score_str = "YOUR HIGHEST SCORE: " + std::to_string(g_high_score);
+            high_score_text.SetText(high_score_str.c_str());
+            high_score_text.loadFromRenderedText(g_font_text, g_screen);
+            high_score_text.RenderText(g_screen, SCREEN_WIDTH / 2 - 230 , 300); // Canh giữa màn hình
+            SDL_RenderPresent(g_screen); // Cập nhật lại màn hình để hiển thị điểm cao nhất
+
+            Sleep(2000);          // tam dung 500 mili s de nguoi choi nhin toan canh truoc khi ve menu game over
             int ret_menu = SDLCommonFunc::ShowMenu(g_screen, g_font_MENU,
                 "Play Again", "Exit",
                 "img//MENU END.png");
