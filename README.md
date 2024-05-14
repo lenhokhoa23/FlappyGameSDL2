@@ -1,38 +1,32 @@
-# Quản lý Sinh viên
+# Bird Adventure - Flappy Bird
 
-Mô tả ngắn gọn về dự án của bạn, nêu rõ mục đích và chức năng chính. Dự án này nhằm cung cấp một hệ thống quản lý thông tin sinh viên, bao gồm các chức năng như thêm, sửa, xóa và tìm kiếm sinh viên.
 
 ---
 
 ## Mục lục
 
-- [Giới thiệu](#giới-thiệu)
+- [Giới thiệu](#giới-thiệu).
 - [Cài đặt](#cài-đặt)
-  - [Yêu cầu](#yêu-cầu)
-  - [Các bước cài đặt](#các-bước-cài-đặt)
 - [Cách sử dụng](#cách-sử-dụng)
 - [Ví dụ](#ví-dụ)
-- [Đóng góp](#đóng-góp)
-- [Giấy phép](#giấy-phép)
 - [Liên hệ](#liên-hệ)
 
 ---
 
 ## Giới thiệu
 
-Giải thích chi tiết về dự án, lý do tại sao nó được tạo ra và các vấn đề mà nó giải quyết. Dự án này được tạo ra để giúp các trường học hoặc tổ chức dễ dàng quản lý thông tin sinh viên, tiết kiệm thời gian và nâng cao hiệu quả công việc.
+Điều khiển chú chim của bạn vượt qua cạm bẫy và giành số điểm cao nhất có thể !!!!
 
 ---
 
 ## Cài đặt
+Tại github, chọn Code => Download ZIP ==> Chạy file .sln 
 
-### Yêu cầu
+## Yêu cầu
 
-- Python 3.6+
-- Các thư viện khác (được liệt kê trong `requirements.txt`)
+Sử dụng bản VISUAL STUDIO 2022 để có trải nghiệm tốt nhất.
 
-### Các bước cài đặt
-
-1. Clone repository:
-   ```sh
-   git clone https://github.com/yourusername/quan-ly-sinh-vien.git
+## Ví dụ
+[Download Video](https://github.com/lenhokhoa23/FlappyGameSDL2/blob/master/Rambo%20Le%20Nho%20Khoa%202024-05-14%2022-39-34.mp4)
+## Liên hệ
+Góp ý, thắc mắc vui lòng liên hệ qua email: lenhokhoa0@gmail.com
