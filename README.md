@@ -34,7 +34,7 @@ Sử dụng bản VISUAL STUDIO 2022 để có trải nghiệm tốt nhất.
 
 ## Ví dụ
 
-![Watch the video]((https://youtu.be/TqyIDx0yZuU))
+![Watch the video](https://img.youtube.com/vi/https://youtu.be/TqyIDx0yZuU/0.jpg)
 ## Liên hệ
 
 Góp ý, thắc mắc vui lòng liên hệ qua email: lenhokhoa0@gmail.com
