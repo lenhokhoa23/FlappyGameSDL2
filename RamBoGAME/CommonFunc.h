@@ -12,7 +12,7 @@
 #include <SDL_ttf.h>
 #include "TextObject.h"
 #include "BaseObject.h"
-
+#include <fstream>
 
 static  SDL_Window* g_window = NULL;
 static SDL_Renderer* g_screen = NULL;
