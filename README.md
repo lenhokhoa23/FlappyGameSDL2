@@ -34,7 +34,7 @@ Sử dụng bản VISUAL STUDIO 2022 để có trải nghiệm tốt nhất.
 
 ## Ví dụ
 
-https://github.com/lenhokhoa23/FlappyGameSDL2/blob/master/Rambo%20Le%20Nho%20Khoa%202024-05-14%2022-39-34.mp4
+[File video hướng dẫn chơi](https://github.com/lenhokhoa23/FlappyGameSDL2/blob/master/Rambo%20Le%20Nho%20Khoa%202024-05-14%2022-39-34.mp4)
 ## Liên hệ
 
 Góp ý, thắc mắc vui lòng liên hệ qua email: lenhokhoa0@gmail.com
