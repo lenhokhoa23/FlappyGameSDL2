@@ -34,7 +34,12 @@ Sử dụng bản VISUAL STUDIO 2022 để có trải nghiệm tốt nhất.
 
 ## Ví dụ
 
-[Download Video](https://github.com/lenhokhoa23/FlappyGameSDL2/blob/master/Rambo%20Le%20Nho%20Khoa%202024-05-14%2022-39-34.mp4)
+<!-- <p align="center">
+  <a href="https://youtu.be/TqyIDx0yZuU" target="_blank"><img src="internals/img/subtitler-intro-imgur.gif"></a>
+</p> -->
+
+<hr />
+<br />
 ## Liên hệ
 
 Góp ý, thắc mắc vui lòng liên hệ qua email: lenhokhoa0@gmail.com
